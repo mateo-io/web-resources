@@ -3,46 +3,51 @@
 
 ## Table of Contents
 
-1. [I just want a website !](#help-me-im-desperate)
-2. [General Javascript](#general-javascript)
-3. [React](#react)
-4. [Core concepts](#core)
-5. [Static sties](#static)
+- [I just want a website !](#help-me-im-desperate)
+- [General Javascript](#general-javascript)
+- [React](#react)
+- [Core concepts](#core)
+- [Static sties](#static)
   - [JAM stack](#jam)
   - [Wordpress](#wordpress)
-6. [Node](#node)
-7. [Design](#design)
+- [Node](#node)
+- [Design](#design)
    - [Inspiration](#inspiration)
 
-### I just want a website ! <a name="help-me-im-desperate"></a>
+<a name="help-me-im-desperate"></a>
+### I just want a website ! 
 
 You have plenty of options. "easiest" is probably just getting some paid wordpress hosting, buy a template and get to work.
 
 I'm not one for the easiest of options. Right now if you only need a static site (content that doesn't change very often). Then I can't recommend the `JAM` stack enough.
 
 
-### Core concepts <a name="core"></a>
+<a name="core"></a>
+### Core concepts 
 
 Google's web overview is a good place if you alread have some advanced knowledge [link](https://developers.google.com/web/fundamentals/architecture/app-shell)
 
 
-### General Javascript <a name="general-javascript"></a>
+<a name="general-javascript"></a>
+### General Javascript 
 
 
-
-### React <a name="react"></a>
+<a name="react"></a>
+### React 
 
 I've worked mainly as a frontend developer for quite some time that the list is going to be very biased toward frontend/react. Take that with a grain of salt. 
 
 
-
-### Node <a name="node"></a>
-
-
-### Design ### Node <a name="design"></a>
+<a name="node"></a>
+### Node 
 
 
-#### Inspiration ### Node <a name="inspiration"></a>
+<a name="design"></a>
+### Design
+
+
+<a name="inspiration"></a>
+#### Inspiration
 
 - Information is beautiful. Really lovely charts, very diverse, makes you think how to display different kinds of data sets. [link](https://informationisbeautiful.net/)
 
