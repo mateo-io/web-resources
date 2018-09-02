@@ -1,8 +1,24 @@
 # Web Resources Mega Collection
 
+
+
+## I just want a website !
+
+You have plenty of options. "easiest" is probably just getting some paid wordpress hosting, buy a template and get to work.
+
+I'm not one for the easiest of options. Right now if you only need a static site (content that doesn't change very often). Then I can't recommend the `JAM` stack enough.
+
+For my personal blog [mateom.io](https://mateom.io) I've used the JAM stack. I used `React`, `Gatsby` and `styled-components` and Gatsby converts all of that to a simple static website with html/css/js minified and super fast. To deploy it I just need to push to master and netlify will update it for me automatically (this is not a paid endorsment by netlify. by all means use the service you want. `now.sh` is a popular one too)
+
+To supercharge your JAM website you'd need things like functions
+
+[Netlify JAM functions](https://www.netlify.com/tags/functions/)
+
+
 ## Core web fundamentals
 
-[Google's web overview is a good place if you alread have some advanced knowledge](https://developers.google.com/web/fundamentals/architecture/app-shell)
+Google's web overview is a good place if you alread have some advanced knowledge [link](https://developers.google.com/web/fundamentals/architecture/app-shell)
+
 
 ## General Javascript
 
@@ -17,11 +33,22 @@ I've worked mainly as a frontend developer for quite some time that the list is 
 ## Node
 
 
+## Design 
+
+
+#### Inspiration
+
+- Information is beautiful. Really lovely charts, very diverse, makes you think how to display different kinds of data sets. [link](https://informationisbeautiful.net/)
 
 
 
 
 
+## Productivity
+
+WTF does this have to do with web dev resources? Being more productive with our work gives us more free time to have some other interests or to binge watch another one of those bad TV series. Whatever rocks your boat.
+
+Tim Ferris' book `Tools of Titans` summary and notes. Haven't read the book but this summary is enough for most people. Like everything treat it with a grain of salt. Correlation does not mean causation, and if you do everything these super successful people do, chances are you are still not going to be super successful :) [Link](https://www.toomas.net/2017/01/19/the-ultimate-tim-ferriss-tools-of-titans-book-summary-notes-review/)
 
 
 
