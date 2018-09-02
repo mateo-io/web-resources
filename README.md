@@ -74,10 +74,15 @@ WTF does this have to do with web dev resources? Being more productive with our 
 Tim Ferris' book `Tools of Titans` summary and notes. Haven't read the book but this summary is enough for most people. Like everything treat it with a grain of salt. Correlation does not mean causation, and if you do everything these super successful people do, chances are you are still not going to be super successful :) [Link](https://www.toomas.net/2017/01/19/the-ultimate-tim-ferriss-tools-of-titans-book-summary-notes-review/)
 
 
+*Take care of your hands* RSI is a thing and the best treatment is to don't get it in the first place. Once you've gotten it you can get to the point where you need frequent breaks so you arm doesn't hurt.
 
 
+Hand exercise for professional gamers. [url](https://i.imgur.com/5vktp17.jpg)
 
 
+### Business
+
+Good list with marketing, copywriting and general business advice [Stacking the bricks | Growing your business](https://stackingthebricks.com/guides/growing-your-biz/)
 
 
 
