@@ -37,6 +37,18 @@ Google's web overview is a good place if you alread have some advanced knowledge
 
 I've worked mainly as a frontend developer for quite some time that the list is going to be very biased toward frontend/react. Take that with a grain of salt. 
 
+#### Animations
+
+Sara Drasner is the Goddess of animation. [Here's her 2017 ReactEurope talk](https://www.youtube.com/watch?v=W5AdUcJDHo0&list=WL&index=22&t=0s)
+
+To summarize she recommends 3 libraries
+
+1. [GreenStock](https://greensock.com/). Most recommended by far. Not react-specific
+2. [React Motion](https://github.com/chenglou/react-motion)
+3. [Mo.js](http://mojs.io/)
+
+Special mention to [React Native Transition Group Plus](https://github.com/cheapsteak/react-transition-group-plus)
+ 
 
 <a name="node"></a>
 ### Node 
