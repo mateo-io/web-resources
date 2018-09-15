@@ -14,8 +14,9 @@
 - [Design](#design)
    - [Inspiration](#inspiration)
 
+
 <a name="help-me-im-desperate"></a>
-### I just want a website ! 
+## I just want a website ! 
 
 You have plenty of options. "easiest" is probably just getting some paid wordpress hosting, buy a template and get to work.
 
@@ -29,13 +30,17 @@ Google's web overview is a good place if you alread have some advanced knowledge
 
 
 <a name="general-javascript"></a>
-### General Javascript 
+## General Javascript 
 
 
 <a name="react"></a>
-### React 
+## React 
 
 I've worked mainly as a frontend developer for quite some time that the list is going to be very biased toward frontend/react. Take that with a grain of salt. 
+
+### Forms
+
+[Formik - recommended by Dan Abramov on twitter](https://github.com/jaredpalmer/formik)
 
 #### Animations
 
@@ -55,20 +60,24 @@ Special mention to [React Native Transition Group Plus](https://github.com/cheap
 
 
 <a name="design"></a>
-### Design
+## Design
 
 
 <a name="inspiration"></a>
-#### Inspiration
+## Inspiration
 
 - Information is beautiful. Really lovely charts, very diverse, makes you think how to display different kinds of data sets. [link](https://informationisbeautiful.net/)
 
 
 
+<a name="static"></a>
 
-### Static sites <a name="static"></a>
+## Static sites 
 
-#### JAM  <a name="jam"></a>
+
+<a name="jam"></a>
+#### JAM  
+
 
 For my personal blog [mateom.io](https://mateom.io) I've used the JAM stack. I used `React`, `Gatsby` and `styled-components` and Gatsby converts all of that to a simple static website with html/css/js minified and super fast. To deploy it I just need to push to master and netlify will update it for me automatically (this is not a paid endorsment by netlify. by all means use the service you want. `now.sh` is a popular one too)
 
@@ -79,7 +88,7 @@ To supercharge your JAM website you'd need things like functions
 
 
 
-### Productivity
+## Productivity
 
 WTF does this have to do with web dev resources? Being more productive with our work gives us more free time to have some other interests or to binge watch another one of those bad TV series. Whatever rocks your boat.
 
@@ -98,7 +107,7 @@ Good list with marketing, copywriting and general business advice [Stacking the 
 
 
 
-## Aknowledgments
+## Acknowledgments
 
 I created this because my bookmarks tab was getting unmanageable with 500+ and I didn't really want to waste all hours spent on twitter.
 
