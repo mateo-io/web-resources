@@ -24,9 +24,17 @@ I'm not one for the easiest of options. Right now if you only need a static site
 
 <a name="core"></a>
 
-### Core concepts
+## Core concepts
 
 Google's web overview is a good place if you alread have some advanced knowledge [link](https://developers.google.com/web/fundamentals/architecture/app-shell)
+
+## Advanced concepts
+
+#### Service Workers
+
+[Google Service Worker Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
+[Resource collection](https://jakearchibald.github.io/isserviceworkerready/resources.html)
+Offline activity and service workers. [Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 
 <a name="general-javascript"></a>
 
@@ -41,6 +49,10 @@ Google's web overview is a good place if you alread have some advanced knowledge
 ## React
 
 I've worked mainly as a frontend developer for quite some time that the list is going to be very biased toward frontend/react. Take that with a grain of salt.
+
+You may want to use create-react-app at first, don't need to know much of
+webpack to be honest, but if you want to learn how to set up an app and its
+details look to [this tutorial](https://www.robinwieruch.de/webpack-advanced-setup-tutorial/)
 
 ### General Patterns
 
@@ -113,4 +125,6 @@ This was previously a Trello board but decided that it was growing too large for
 
 ## Disclaimer
 
-I haven't actually read/completed all these tutorials/resources. They just seemed cool at the time but some of them may actually be horrible. Please report them to me so I can take them down and keep some standard.
+I haven't actually read/completed all these tutorials/resources. They just
+seemed cool at the time but some of them may actually be horrible. Please report
+them to me so I can take them down and keep some standard...
